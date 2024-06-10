@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Interesting Query/Discovery](#interesting-queary/discovry)
+- [Interesting Query/Discovery](#interesting-quearydiscovry)
 
 ## Interesting Query/Discovery
 I learned about the ```UNION``` operator and how it is used to combine the result sets of two or more ```SELECT``` statements into a single result set.
